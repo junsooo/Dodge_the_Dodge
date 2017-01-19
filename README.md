@@ -1,4 +1,4 @@
-Dodge the Dodge
+#GoSS - Dodge the Dodge
 
 곰플레이어의 '닷지' 게임 리버싱 후 총알 우회
 
