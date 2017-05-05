@@ -1,4 +1,4 @@
-#GoSS - Dodge the Dodge
+# GoSS - Dodge the Dodge
 
 곰플레이어의 '닷지' 게임을 Ollydbg와 Tsearch를 이용해 리버싱 후 총알 우회
 
